@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="zero">0</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="rocks">Rock: 33%</string>
+    <string name="papers">Paper: 33%</string>
+    <string name="scissor">Scissors: 33%</string>
+    <string name="rps">Rock Paper Scissors Shoot!</string>
+    <string name="wins">Wins</string>
+    <string name="ties">Ties</string>
+    <string name="Losses">Losses</string>
+    <string name="choice">Computer Choice Percentages:</string>
+    <string name="con">Confidence:\n-33%</string>
+    <string name="clear">Clear</string>
+</resources>
