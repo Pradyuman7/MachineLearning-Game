@@ -1,6 +1,6 @@
 # Machine Learning Game (Android)
 
-A simple machine learning ✊ ✋✌️ android game, which becomes unbeatable 😱 as you play (learns from your past moves)
+A simple machine learning ✊ ✋✌️ android game, which becomes unbeatable 😱 as you play (learns from your past moves).
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
