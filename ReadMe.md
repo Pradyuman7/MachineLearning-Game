@@ -2,7 +2,7 @@
 
 A simple machine learning ✊ ✋✌️ android game, which becomes unbeatable 😱 as you play (learns from your past moves).
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![ML_Game](https://img.shields.io/badge/Pradyuman7-ML_Game-blue.svg?style=plastic)](https://github.com/Pradyuman7/MachineLearning-Game)
 
 ## Finished app looks like this
 ![screenshot_2019-01-20-09-53-16-578_com pd mlgame](https://user-images.githubusercontent.com/41565823/51437119-dde72d80-1c99-11e9-8685-58ff09f02a99.jpg)
